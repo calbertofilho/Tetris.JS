@@ -1,0 +1,20 @@
+body {
+    background-color: #333333;
+    color: #FFFFFF;
+}
+
+#score #speed {
+    display: inline-block;
+}
+
+div {
+    font-size: 25px;
+    font-weight: bold;
+    font-family: monospace;
+    text-align: center;
+}
+
+canvas {
+    display:block;
+    margin: 0 auto;
+}
